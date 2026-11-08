@@ -1,5 +1,5 @@
 <a href="https://github.com/sudhanshu2049">
-  <img src="sudhanshu2049-profile-banner.svg" style="width: 100%;" alt="Sudhanshu Yadav GitHub profile banner">
+  <img src="./sudhanshu2049-profile-banner.svg" style="width: 100%;" alt="Sudhanshu Yadav GitHub profile banner">
 </a>
 
 ```Hi there, I'm Sudhanshu Yadav. I'm a BCA student specializing in AI & Machine Learning. I build machine learning projects and practical applications, and I'm currently growing my skills in Python, Java, C++, data science, and software development. Feel free to connect with me!```
