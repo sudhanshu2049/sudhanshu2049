@@ -292,7 +292,7 @@
     
     <!-- Tagline with blue color -->
     <text x="400" y="130" font-family="Helvetica, Arial, sans-serif" font-size="18" text-anchor="middle" fill="#8be9fd" opacity="0">
-      BCA (AI & Machine Learning) student building practical ML projects and Java applications. Interested in data science, software development, and solving real-world problems through technology.
+      BCA (AI &amp; Machine Learning) student building practical ML projects and Java applications. Interested in data science, software development, and solving real-world problems through technology.
       <animate attributeName="opacity" values="0;1" dur="1.2s" begin="7.6s" fill="freeze" keySplines="0.25, 0.1, 0.25, 1" calcMode="spline" />
       <animate attributeName="y" values="140;130" dur="1.2s" begin="7.6s" fill="freeze" keySplines="0.34, 1.56, 0.64, 1" calcMode="spline" />
     </text>
