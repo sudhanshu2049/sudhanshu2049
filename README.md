@@ -68,10 +68,15 @@
 <br>
 
 <a name="snake"></a>
-
 ## Python Processing My Pushes 🐍
 
-<!-- Add a contribution-snake animation from your own repository here if you set one up. -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudhanshu2049/sudhanshu2049/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudhanshu2049/sudhanshu2049/output/github-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/sudhanshu2049/sudhanshu2049/output/github-snake.svg">
+  </picture>
+</p>
 
 <hr>
 
