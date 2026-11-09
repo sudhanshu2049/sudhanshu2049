@@ -27,13 +27,36 @@
 
 <br>
 
-## Let's have some fun! 🎮
+## 🚀 Featured Projects
 
-> #### Here are some projects you can explore on my GitHub.
->
-> - <a href="https://github.com/sudhanshu2049/2d-java-chess-game">2D Java Chess Game ♟️</a>
-> - <a href="https://github.com/sudhanshu2049/NTPC_Dashboard">NTPC Financial Dashboard 📊</a>
-> - <a href="https://github.com/sudhanshu2049/sentiment-analysis-lstm-imdb">IMDb Sentiment Analysis 🧠</a>
+<table>
+  <tr>
+    <td colspan="2">
+      <h3>📊 NTPC Financial Performance Dashboard</h3>
+      <p>Explore NTPC financial data from March 2023 to March 2026, with a comparison of Logistic Regression and Decision Tree models.</p>
+      <p>
+        <a href="https://ntpc-financial-dashboard.streamlit.app">🌐 Live Demo</a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/sudhanshu2049/NTPC_Dashboard">💻 Source Code</a>
+      </p>
+      <sub>Python · Streamlit · Machine Learning</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>♟️ 2D Java Chess Game</h3>
+      <p>A Java Swing chess game featuring move validation and game storage.</p>
+      <a href="https://github.com/sudhanshu2049/2d-java-chess-game">💻 View Project</a>
+      <br><sub>Java · Swing · MySQL</sub>
+    </td>
+    <td width="50%">
+      <h3>🎬 IMDb Sentiment Analysis</h3>
+      <p>An LSTM project that classifies IMDb movie reviews by sentiment.</p>
+      <a href="https://github.com/sudhanshu2049/sentiment-analysis-lstm-imdb">💻 View Project</a>
+      <br><sub>Python · LSTM · NLP</sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
