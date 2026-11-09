@@ -66,6 +66,18 @@
 | **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white) |
 
 <br>
+<br>
+
+## 🤝 Collaboration
+
+- 🤖 AI & Machine Learning Projects
+- 📊 Data Science and Visualization
+- 🧠 Machine Learning Experiments
+- 🔬 AI/ML Research and Learning
+- 🐍 Python Projects and Dashboards
+- 🌱 Open Source Contributions
+
+<br>
 
 ## Support My Journey
 
