@@ -81,11 +81,11 @@
 
 ## Support My Journey
 
-<a href="https://www.buymeacoffee.com/YOUR_USERNAME">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="Buy Me a Coffee">
+<a href="https://www.buymeacoffee.com/skyd" target="_blank">
+  <img src="bmc-button.svg" alt="Buy me a coffee" width="160">
 </a>
-
 <a name="snake"></a>
+
 ## Python Processing My Pushes 🐍
 
 <p align="center">
